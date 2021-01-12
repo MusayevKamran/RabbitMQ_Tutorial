@@ -1,0 +1,16 @@
+D:\better apps\RabbitMQProject\Producer\bin\Debug\netcoreapp3.1\Producer.exe
+D:\better apps\RabbitMQProject\Producer\bin\Debug\netcoreapp3.1\Producer.deps.json
+D:\better apps\RabbitMQProject\Producer\bin\Debug\netcoreapp3.1\Producer.runtimeconfig.json
+D:\better apps\RabbitMQProject\Producer\bin\Debug\netcoreapp3.1\Producer.runtimeconfig.dev.json
+D:\better apps\RabbitMQProject\Producer\bin\Debug\netcoreapp3.1\Producer.dll
+D:\better apps\RabbitMQProject\Producer\bin\Debug\netcoreapp3.1\Producer.pdb
+D:\better apps\RabbitMQProject\Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\better apps\RabbitMQProject\Producer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\better apps\RabbitMQProject\Producer\obj\Debug\netcoreapp3.1\Producer.csprojAssemblyReference.cache
+D:\better apps\RabbitMQProject\Producer\obj\Debug\netcoreapp3.1\Producer.AssemblyInfoInputs.cache
+D:\better apps\RabbitMQProject\Producer\obj\Debug\netcoreapp3.1\Producer.AssemblyInfo.cs
+D:\better apps\RabbitMQProject\Producer\obj\Debug\netcoreapp3.1\Producer.csproj.CoreCompileInputs.cache
+D:\better apps\RabbitMQProject\Producer\obj\Debug\netcoreapp3.1\Producer.csproj.CopyComplete
+D:\better apps\RabbitMQProject\Producer\obj\Debug\netcoreapp3.1\Producer.dll
+D:\better apps\RabbitMQProject\Producer\obj\Debug\netcoreapp3.1\Producer.pdb
+D:\better apps\RabbitMQProject\Producer\obj\Debug\netcoreapp3.1\Producer.genruntimeconfig.cache
